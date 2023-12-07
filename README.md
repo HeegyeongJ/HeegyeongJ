@@ -6,24 +6,28 @@
 <br>
 <br>
 <h3> 🛠 Tech Stack</h3>
-![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/TvpeScript-3178C6?style=flat&logo=Typescript&logoColor=white)<br>
-![Static Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-![Static Badge](https://img.shields.io/badge/React--query-FF4154?style=flat&logo=React-query&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Styled--components-DB7093?style=flat&logo=Styled-components&logoColor=white)<br>
-![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)<br>
+<div>
+        
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-E34F26?style=flat&logo=css3&logoColor=white"/>
+</div>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TvpeScript-3178C6?style=flat&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/React--query-FF4154?style=flat&logo=React-query&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat&logo=Styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeegyeongJ&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <h3>✨Contact✨</h3>
 <a href="mailto:gmlrud0409@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
     </a>
 
 <!---
