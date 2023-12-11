@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12&text=Heegyeong%20DEV💎WORLD&fontAlign=62&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12&text=HG%20DEV💎WORLD&fontAlign=62&fontAlignY=45)
 
 <h3 style=>👩‍🔧 Introduction </h3>
 프론트엔드 개발자가 되고 싶은 (전) 음대생입니다.<br>
